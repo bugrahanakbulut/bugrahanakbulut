@@ -17,8 +17,8 @@
 
 I am Game Developer at MildMania graduated from Hacettepe University in 2019. Currently pursuing Master's degree in Computer Animation and Game Technologies.
 
-https://github-readme-stats.vercel.app/api?username={bugrahanakbulut}
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bugrahanakbulut&show_icons=true&theme=gotham" alt="bugrahanakbulut" />
 
 
 
