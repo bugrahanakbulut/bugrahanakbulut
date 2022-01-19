@@ -1,14 +1,14 @@
 <h3 align="center">👋 Hi there! I'm Bugra</h3>
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+
 </p>
 
 ---
 
 I am Game Developer at MildMania graduated from Hacettepe University in 2019. Currently pursuing Master's degree in Computer Animation and Game Technologies.
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 
 [![Profile views](https://gpvc.arturio.dev/bugrahanakbulut)](https://github.com/bugrahanakbulut)
 
