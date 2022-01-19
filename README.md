@@ -17,7 +17,10 @@
 
 I am Game Developer at MildMania graduated from Hacettepe University in 2019. Currently pursuing Master's degree in Computer Animation and Game Technologies.
 
-Technologies : 
+---
+<h3 align="left">
+  Technologies :
+</h3>
 <p> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
