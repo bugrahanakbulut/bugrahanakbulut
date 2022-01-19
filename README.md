@@ -1,4 +1,12 @@
-Game developer at MildMania. Currently pursuing Master's degree in Computer Animation and Game Technologies. Graduated from Department of Computer Engineering at Hacettepe University. Detail-oriented, hardworking person who is eager to acquire new skills in Computer Science. Aiming to use and improve my knowledge on game development, computer graphics and software engineering during my professional career.\
+<h3 align="center">👋 Hi there! I'm Bugra</h3>
+<p align="center">
+  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="https://twitter.com/lauragift_">Twitter</a>
+</p>
+
+---
+
+I am Game Developer at MildMania graduated from Hacettepe University in 2019. Currently pursuing Master's degree in Computer Animation and Game Technologies.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
