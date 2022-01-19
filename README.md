@@ -15,9 +15,26 @@
 
 ---
 
-I am Game Developer at MildMania graduated from Hacettepe University in 2019. Currently pursuing Master's degree in Computer Animation and Game Technologies.
+I am Game Developer at MildMania graduated from Hacettepe University in 2019. Currently pursuing a Master's degree in Computer Animation and Game Technologies. Loving develop custom mechanics and shaders for fun. If I create that I'd love to share you can see it in my repositories :D
 
 ---
+
+  ``` cs
+  Dictionary<string, string[]> bugra = new Dictionary<string, string[]>()
+  {
+      { "pronouns", new [] { "He", "Him" } },
+      { "programmingLanguages", new [] { "C#", "C++", "Java", "Python" } },
+      { "frameworksTools", new [] { "Unity", "Git", "Fork", "Jira", "ClickUp" } },
+      { "askMeAbout", new [] { "game_development", "shader_development", "competitive_programming" } },
+      { "interests", new [] {"game_development", "shader_development", "physics_in_game_development", "dynamic_programming" } },
+      { "favoroutieGames", new [] {"God Of War", "The Last Of Us", "Hades", "iRacing", "Portal", "Superliminal", "Mount and Blade" } },
+      { "education", new []{ "BSc, CS Hacettepe", "MSc, CG Hacettepe" } },
+  };
+  
+  
+  ```
+
+<!---
 
 <h3 align="left">
   Programming :
@@ -29,7 +46,7 @@ I am Game Developer at MildMania graduated from Hacettepe University in 2019. Cu
   <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
   
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
@@ -45,6 +62,8 @@ I am Game Developer at MildMania graduated from Hacettepe University in 2019. Cu
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </h3>
-
+-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bugrahanakbulut&show_icons=true&theme=gotham" alt="bugrahanakbulut" />
+  
+
