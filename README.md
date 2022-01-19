@@ -21,9 +21,12 @@ I am Game Developer at MildMania graduated from Hacettepe University in 2019. Cu
 
 <h3 align="left">
   Technologies :
+  
+  <p> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  
 </h3>
-<p> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-<p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bugrahanakbulut&show_icons=true&theme=gotham" alt="bugrahanakbulut" />
