@@ -3,4 +3,4 @@ Game developer at MildMania. Currently pursuing Master's degree in Computer Anim
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-bugrahan akbulut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bugrahan-akbulut-432709125/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-bugrahan akbulut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bugrahan-akbulut-432709125/)](https://www.linkedin.com/in/bugrahan-akbulut-432709125/)
