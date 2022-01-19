@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Hi there! I'm Bugra
   <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-</h3>
+</h2>
 <p align="center">
 
 </p>
@@ -21,9 +21,9 @@ I am Game Developer at MildMania graduated from Hacettepe University in 2019. Cu
 
 ---
 
-<h4 align="left">
+<h3 align="left">
   Technologies :
-</h4>
+</h3>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
