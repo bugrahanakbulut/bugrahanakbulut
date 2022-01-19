@@ -1,5 +1,7 @@
-<h3 align="center">👋 Hi there! I'm Bugra</h3>
-<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<h3 align="center">
+  Hi there! I'm Bugra
+  <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+</h3>
 <p align="center">
 
 </p>
