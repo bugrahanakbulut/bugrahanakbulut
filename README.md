@@ -9,6 +9,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-akbulutbugrahan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akbulutbugrahan@gmail.com)](mailto:akbulutbugrahan@gmail.com)
 
 
+[![](https://gpvc.arturio.dev/bugrahanakbulut)](https://github.com/bugrahanakbulut)
+[![](https://visitor-badge.glitch.me/badge?page_id=bugrahanakbulut)
+
 
 ---
 
