@@ -10,7 +10,7 @@
 
 
 [![](https://gpvc.arturio.dev/bugrahanakbulut)](https://github.com/bugrahanakbulut)
-[![](https://visitor-badge.glitch.me/badge?page_id=bugrahanakbulut)
+![](https://visitor-badge.glitch.me/badge?page_id=bugrahanakbulut)
 
 
 ---
