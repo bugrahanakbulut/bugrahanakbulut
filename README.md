@@ -6,7 +6,7 @@
 
 </p>
 
-
+---
 
 [![](https://gpvc.arturio.dev/bugrahanakbulut)](https://github.com/bugrahanakbulut)
 ![](https://visitor-badge.glitch.me/badge?page_id=bugrahanakbulut)
@@ -21,9 +21,9 @@ I am Game Developer at MildMania graduated from Hacettepe University in 2019. Cu
 
 ---
 
-<h3 align="left">
+<h4 align="left">
   Technologies :
-</h3>
+</h4>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
