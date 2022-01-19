@@ -2,11 +2,7 @@
   Hi there! I'm Bugra
   <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 </h2>
-<p align="center">
 
-</p>
-
----
 
 [![](https://gpvc.arturio.dev/bugrahanakbulut)](https://github.com/bugrahanakbulut)
 ![](https://visitor-badge.glitch.me/badge?page_id=bugrahanakbulut)
@@ -24,8 +20,8 @@ I am Game Developer at MildMania graduated from Hacettepe University in 2019. Cu
 <h3 align="left">
   Technologies :
 </h3>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<p> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+<p> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bugrahanakbulut&show_icons=true&theme=gotham" alt="bugrahanakbulut" />
