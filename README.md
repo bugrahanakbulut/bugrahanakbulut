@@ -27,7 +27,7 @@ I am Game Developer at MildMania graduated from Hacettepe University in 2019. Cu
       { "frameworksTools", new [] { "Unity", "Git", "Fork", "Jira", "ClickUp" } },
       { "askMeAbout", new [] { "game_development", "shader_development", "competitive_programming" } },
       { "interests", new [] {"game_development", "shader_development", "physics_in_game_development", "dynamic_programming" } },
-      { "favoroutieGames", new [] {"God Of War", "The Last Of Us", "Hades", "iRacing", "Portal", "Superliminal", "Mount and Blade" } },
+      { "favouriteGames", new [] {"God Of War", "The Last Of Us", "Hades", "iRacing", "Portal", "Superliminal", "Mount and Blade" } },
       { "education", new []{ "BSc, CS Hacettepe", "MSc, CG Hacettepe" } },
   };
   
