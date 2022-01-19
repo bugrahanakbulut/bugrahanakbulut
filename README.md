@@ -2,6 +2,7 @@
   Hi there! I'm Bugra
   <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 </h2>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/bugrahanakbulut?label=Follow)](https://twitter.com/bugrahanakbulut?lang=en)
 [![GitHub followers](https://img.shields.io/github/followers/bugrahanakbulut?label=Follow&style=social)](https://github.com/bugrahanakbulut)
 [![Linkedin Badge](https://img.shields.io/badge/-bugrahanakbulut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bugrahan-akbulut-432709125/)](https://www.linkedin.com/in/bugrahan-akbulut-432709125/)
