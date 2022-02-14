@@ -12,7 +12,7 @@
 
 ---
 
-I am Game Developer at MildMania graduated from Hacettepe University in 2019. Currently pursuing a Master's degree in Computer Animation and Game Technologies. Loving develop custom mechanics and shaders for fun. If I create that I'd love to share you can see it in my repositories :D
+I am Game Developer at MildMania graduated from Hacettepe University in 2019. Currently pursuing a Master's degree in Computer Animation and Game Technologies. Loving develop random gameplay mechanics, shaders or game related stuff for fun. If I create that I'd love to share you can see it in my repositories :D
 
 ---
 
